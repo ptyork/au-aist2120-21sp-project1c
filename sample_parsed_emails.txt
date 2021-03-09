@@ -1,0 +1,17 @@
+asmith@boring.com                  boring.com          Smith, A.                
+awitcher@coldasheck.net            coldasheck.net      Witcher, A.              
+demarcus.johnson@semper.org        semper.org          Johnson, Demarcus        
+shelly.baker@supplyshack.com       supplyshack.com     Baker, Shelly            
+cmonster@sesame.st                 sesame.st           Monster, C.              
+pparker@spider.org                 spider.org          Parker, P.               
+hermione.granger@hogwarts.edu      hogwarts.edu        Granger, Hermione        
+meghan.markle@exroyals.gov         exroyals.gov        Markle, Meghan           
+seedy.mcshady@criminal.inc         criminal.inc        Mcshady, Seedy           
+bbird@sesame.st                    sesame.st           Bird, B.                 
+harry.wales@exroyals.gov           exroyals.gov        Wales, Harry             
+dcunningham12@rasa.net             rasa.net            Cunningham12, D.         
+harry.potter@hogwarts.edu          hogwarts.edu        Potter, Harry            
+ggekko@capital.com                 capital.com         Gekko, G.                
+--------------------------------------------------------------------------------
+Total Number of Email Addresses: 14
+Total Unique Domain Names: 11
